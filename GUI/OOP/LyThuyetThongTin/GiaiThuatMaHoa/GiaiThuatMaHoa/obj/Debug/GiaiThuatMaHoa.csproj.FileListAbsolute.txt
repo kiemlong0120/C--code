@@ -1,0 +1,12 @@
+E:\code\C##\WPF\custom_Window\formHoanChinh\GiaiThuatMaHoa\GiaiThuatMaHoa\bin\Debug\GiaiThuatMaHoa.exe.config
+E:\code\C##\WPF\custom_Window\formHoanChinh\GiaiThuatMaHoa\GiaiThuatMaHoa\bin\Debug\GiaiThuatMaHoa.exe
+E:\code\C##\WPF\custom_Window\formHoanChinh\GiaiThuatMaHoa\GiaiThuatMaHoa\bin\Debug\GiaiThuatMaHoa.pdb
+E:\code\C##\WPF\custom_Window\formHoanChinh\GiaiThuatMaHoa\GiaiThuatMaHoa\obj\Debug\GiaiThuatMaHoa.csprojResolveAssemblyReference.cache
+E:\code\C##\WPF\custom_Window\formHoanChinh\GiaiThuatMaHoa\GiaiThuatMaHoa\obj\Debug\GiaiThuatMaHoa.exe
+E:\code\C##\WPF\custom_Window\formHoanChinh\GiaiThuatMaHoa\GiaiThuatMaHoa\obj\Debug\GiaiThuatMaHoa.pdb
+E:\code\C##\OOP\LyThuyetThongTin\GiaiThuatMaHoa\GiaiThuatMaHoa\bin\Debug\GiaiThuatMaHoa.exe.config
+E:\code\C##\OOP\LyThuyetThongTin\GiaiThuatMaHoa\GiaiThuatMaHoa\obj\Debug\GiaiThuatMaHoa.exe
+E:\code\C##\OOP\LyThuyetThongTin\GiaiThuatMaHoa\GiaiThuatMaHoa\obj\Debug\GiaiThuatMaHoa.pdb
+F:\code\C##\OOP\LyThuyetThongTin\GiaiThuatMaHoa\GiaiThuatMaHoa\bin\Debug\GiaiThuatMaHoa.exe.config
+F:\code\C##\OOP\LyThuyetThongTin\GiaiThuatMaHoa\GiaiThuatMaHoa\obj\Debug\GiaiThuatMaHoa.exe
+F:\code\C##\OOP\LyThuyetThongTin\GiaiThuatMaHoa\GiaiThuatMaHoa\obj\Debug\GiaiThuatMaHoa.pdb

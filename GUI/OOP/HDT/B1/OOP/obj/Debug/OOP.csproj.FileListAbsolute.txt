@@ -1,0 +1,7 @@
+F:\code\C##\OOP\HDT\B1\OOP\bin\Debug\OOP.exe.config
+F:\code\C##\OOP\HDT\B1\OOP\bin\Debug\OOP.exe
+F:\code\C##\OOP\HDT\B1\OOP\bin\Debug\OOP.pdb
+F:\code\C##\OOP\HDT\B1\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+F:\code\C##\OOP\HDT\B1\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+F:\code\C##\OOP\HDT\B1\OOP\obj\Debug\OOP.exe
+F:\code\C##\OOP\HDT\B1\OOP\obj\Debug\OOP.pdb

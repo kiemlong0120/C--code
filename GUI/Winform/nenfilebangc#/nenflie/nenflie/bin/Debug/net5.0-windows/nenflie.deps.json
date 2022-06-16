@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "nenflie/1.0.0": {
+        "dependencies": {
+          "ICSharpCode.SharpZipLib": "0.85.5.452"
+        },
+        "runtime": {
+          "nenflie.dll": {}
+        }
+      },
+      "ICSharpCode.SharpZipLib/0.85.5.452": {
+        "runtime": {
+          "ICSharpCode.SharpZipLib.dll": {
+            "assemblyVersion": "0.85.5.452",
+            "fileVersion": "0.85.5.452"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nenflie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ICSharpCode.SharpZipLib/0.85.5.452": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

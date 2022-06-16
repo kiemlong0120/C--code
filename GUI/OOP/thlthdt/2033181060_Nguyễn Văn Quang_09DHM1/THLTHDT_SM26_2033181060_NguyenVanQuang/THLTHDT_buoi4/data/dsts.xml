@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSachThiSinh>
+  <TS>
+    <SBD>001</SBD>
+    <Holot>Nguyễn Văn</Holot>
+    <Ten>Fire</Ten>
+    <NamSinh>2000</NamSinh>
+    <Toan>10.0</Toan>
+    <Van>10.0</Van>
+    <NgoaiNgu>10.0</NgoaiNgu>
+  </TS>
+<TS>
+    <SBD>002</SBD>
+    <Holot>Nguyễn Văn</Holot>
+    <Ten>Water</Ten>
+    <NamSinh>2001</NamSinh>
+    <Toan>9.9</Toan>
+    <Van>9.8</Van>
+    <NgoaiNgu>9.7</NgoaiNgu>
+  </TS>
+<TS>
+    <SBD>003</SBD>
+    <Holot>Nguyễn Văn</Holot>
+    <Ten>Thunder</Ten>
+    <NamSinh>2002</NamSinh>
+    <Toan>8.5</Toan>
+    <Van>10</Van>
+    <NgoaiNgu>9.0</NgoaiNgu>
+  </TS>
+<TS>
+    <SBD>004</SBD>
+    <Holot>Nguyễn</Holot>
+    <Ten>a</Ten>
+    <NamSinh>2003</NamSinh>
+    <Toan>7.0</Toan>
+    <Van>8.9</Van>
+    <NgoaiNgu>10</NgoaiNgu>
+  </TS>
+</DanhSachThiSinh>

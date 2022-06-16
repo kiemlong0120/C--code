@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CongTy>
+  <TenCongTy>ABC</TenCongTy>
+  <DiaChi>TP.HCM</DiaChi>
+  <DanhSachNhanVien>
+    <NhanVien Loai = "LTV">
+      //Lap trinh vien
+      <Ma>LT01</Ma>
+      <Ten>Le An</Ten>
+      <NamSinh>1992</NamSinh>
+      <DiaChi>Long An</DiaChi>
+      <HeSoLuong>3.5</HeSoLuong>
+      <NamVaoLam>2015</NamVaoLam>
+      <SoGioLamVuot>12</SoGioLamVuot>
+    </NhanVien>
+    <NhanVien Loai = "TK">
+      //chuyen vien thiet ke
+      <Ma>TK02</Ma>
+      <Ten>Nguyen Dung</Ten>
+      <NamSinh>1990</NamSinh>
+      <DiaChi>Tien Giang</DiaChi>
+      <HeSoLuong>4.0</HeSoLuong>
+      <NamVaoLam>2014</NamVaoLam>
+      <SoDuAnHoanThanh>3</SoDuAnHoanThanh>
+    </NhanVien>
+    <NhanVien Loai = "KT">
+      //Chuyen vien kiem thu
+      <Ma>KT03</Ma>
+      <Ten>Nguyen Long</Ten>
+      <NamSinh>1995</NamSinh>
+      <DiaChi>TP.HCM</DiaChi>
+      <HeSoLuong>4.0</HeSoLuong>
+      <NamVaoLam>2018</NamVaoLam>
+      <SoLoiPhatHien>8</SoLoiPhatHien>
+    </NhanVien>
+    <NhanVien Loai = "LTV">
+      //Lap trinh vien
+      <Ma>LTV04</Ma>
+      <Ten>Nguyen Van Quang</Ten>
+      <NamSinh>2000</NamSinh>
+      <DiaChi>TP.HCM</DiaChi>
+      <HeSoLuong>4.0</HeSoLuong>
+      <NamVaoLam>2020</NamVaoLam>
+      <SoGioLamVuot>20</SoGioLamVuot>
+    </NhanVien>
+    <NhanVien Loai = "TK">
+      //chuyen vien thiet ke
+      <Ma>TK05</Ma>
+      <Ten>Tran Duc Bo</Ten>
+      <NamSinh>1990</NamSinh>
+      <DiaChi>Tien Giang</DiaChi>
+      <HeSoLuong>4.0</HeSoLuong>
+      <NamVaoLam>2014</NamVaoLam>
+      <SoDuAnHoanThanh>1</SoDuAnHoanThanh>
+    </NhanVien>
+  </DanhSachNhanVien>
+</CongTy>

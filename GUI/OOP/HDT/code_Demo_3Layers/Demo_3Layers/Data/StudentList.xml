@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StudentList>
+  <Student>
+    <StudentID>12345</StudentID>
+	<LastName>Nguyễn Thị Tú</LastName>
+    <FirstName>Trinh</FirstName>	
+    <Phone>0933726351</Phone>
+    <Email>ntttrinh@gmail.com</Email>
+    <AverageScore>6.27</AverageScore>
+  </Student>
+  <Student>
+    <StudentID>34251</StudentID>
+    <LastName>Lê Hoàng Diệp</LastName>
+	<FirstName>Thảo</FirstName>
+    <Phone>0873234567</Phone>
+    <Email>lhdthao@gmail.com</Email>
+    <AverageScore>6.83</AverageScore>
+  </Student>
+  <Student>
+    <StudentID>24351</StudentID>
+    <LastName>Đặng Lê Nguyên</LastName>
+	<FirstName>Vũ</FirstName>
+    <Phone>0345225334</Phone>
+    <Email>dlnvu@gmail.com</Email>
+    <AverageScore>8.25</AverageScore>
+  </Student>
+  <Student>
+    <StudentID>14355</StudentID>
+    <LastName>Phạm Nhật</LastName>
+	<FirstName>Vượng</FirstName>
+    <Phone>0914661145</Phone>
+    <Email>pnvuong@gmail.com</Email>
+    <AverageScore>5.67</AverageScore>
+  </Student>
+  <Student>
+    <StudentID>84365</StudentID>
+    <LastName>Đoàn Nguyên</LastName>
+	<FirstName>Đức</FirstName>
+    <Phone>0987245132</Phone>
+    <Email>dnduc@gmail.com</Email>
+    <AverageScore>6.73</AverageScore>
+  </Student>
+</StudentList>

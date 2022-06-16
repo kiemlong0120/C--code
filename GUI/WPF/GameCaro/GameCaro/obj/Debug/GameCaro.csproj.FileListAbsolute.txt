@@ -1,0 +1,5 @@
+F:\code\C##\GUI\WPF\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.AssemblyReference.cache
+F:\code\C##\GUI\WPF\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.SuggestedBindingRedirects.cache
+F:\code\C##\GUI\WPF\GameCaro\GameCaro\obj\Debug\App.g.cs
+F:\code\C##\GUI\WPF\GameCaro\GameCaro\obj\Debug\GameCaro_MarkupCompile.cache
+F:\code\C##\GUI\WPF\GameCaro\GameCaro\obj\Debug\GameCaro_MarkupCompile.lref

@@ -1,0 +1,16 @@
+F:\code\C##\console\testDSLK\obj\Debug\net5.0\testDSLK.csproj.AssemblyReference.cache
+F:\code\C##\console\testDSLK\obj\Debug\net5.0\testDSLK.GeneratedMSBuildEditorConfig.editorconfig
+F:\code\C##\console\testDSLK\obj\Debug\net5.0\testDSLK.AssemblyInfoInputs.cache
+F:\code\C##\console\testDSLK\obj\Debug\net5.0\testDSLK.AssemblyInfo.cs
+F:\code\C##\console\testDSLK\obj\Debug\net5.0\testDSLK.csproj.CoreCompileInputs.cache
+F:\code\C##\console\testDSLK\bin\Debug\net5.0\testDSLK.exe
+F:\code\C##\console\testDSLK\bin\Debug\net5.0\testDSLK.deps.json
+F:\code\C##\console\testDSLK\bin\Debug\net5.0\testDSLK.runtimeconfig.json
+F:\code\C##\console\testDSLK\bin\Debug\net5.0\testDSLK.runtimeconfig.dev.json
+F:\code\C##\console\testDSLK\bin\Debug\net5.0\testDSLK.dll
+F:\code\C##\console\testDSLK\bin\Debug\net5.0\testDSLK.pdb
+F:\code\C##\console\testDSLK\obj\Debug\net5.0\testDSLK.dll
+F:\code\C##\console\testDSLK\obj\Debug\net5.0\refint\testDSLK.dll
+F:\code\C##\console\testDSLK\obj\Debug\net5.0\testDSLK.pdb
+F:\code\C##\console\testDSLK\obj\Debug\net5.0\testDSLK.genruntimeconfig.cache
+F:\code\C##\console\testDSLK\obj\Debug\net5.0\ref\testDSLK.dll

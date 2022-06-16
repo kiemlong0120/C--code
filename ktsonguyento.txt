@@ -1,0 +1,11 @@
+if(input <2) ==> ko phai snt	
+
+ktsnt(int input)
+{
+int j=2;
+while(input%j!=0)
+	j++
+if(input==j)==>snt
+else ==> ko phai snt
+}
+}

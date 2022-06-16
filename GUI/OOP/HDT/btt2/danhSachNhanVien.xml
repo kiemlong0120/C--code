@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSach>
+	<NhanVien>
+		<manv>01</manv>
+		<hoten>Nguyễn Văn Quang</hoten>
+		<hesoluong>2</hesoluong>
+		<namvaolam>2020</namvaolam>
+	</NhanVien>
+	<NhanVien>
+		<manv>02</manv>
+		<hoten>Nguyễn Thị Son</hoten>
+		<hesoluong>1</hesoluong>
+		<namvaolam>2018</namvaolam>
+	</NhanVien>
+	<NhanVien>
+		<manv>03</manv>
+		<hoten>Nguyễn Văn A</hoten>
+		<hesoluong>1</hesoluong>
+		<namvaolam>2019</namvaolam>
+	</NhanVien>
+</DanhSach>

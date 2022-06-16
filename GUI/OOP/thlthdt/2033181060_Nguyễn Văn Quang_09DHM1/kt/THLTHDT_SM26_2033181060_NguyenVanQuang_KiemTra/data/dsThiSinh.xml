@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSThiSinh>
+  <TS>
+    <MaTS>001</MaTS>
+    <Holot>Nguyễn Văn</Holot>
+    <Ten>Quang</Ten>
+    <Diemlythuyet>8.5</Diemlythuyet>
+    <Diemthuchanh>10.0</Diemthuchanh>
+  </TS>
+  <TS>
+    <MaTS>002</MaTS>
+    <Holot>Nguyễn Thị</Holot>
+    <Ten>Son</Ten>
+    <Diemlythuyet>9.5</Diemlythuyet>
+    <Diemthuchanh>7.0</Diemthuchanh>
+  </TS>
+  <TS>
+    <MaTS>003</MaTS>
+    <Holot>Nguyễn Trần Kim</Holot>
+    <Ten>Đỏ</Ten>
+    <Diemlythuyet>5.0</Diemlythuyet>
+    <Diemthuchanh>5.5</Diemthuchanh>
+  </TS>
+</DSThiSinh>

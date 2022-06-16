@@ -1,0 +1,7 @@
+F:\code\C##\nụ cười tỏa nắng\nụ cười tỏa nắng\bin\Debug\nụ cười tỏa nắng.exe.config
+F:\code\C##\nụ cười tỏa nắng\nụ cười tỏa nắng\bin\Debug\nụ cười tỏa nắng.exe
+F:\code\C##\nụ cười tỏa nắng\nụ cười tỏa nắng\bin\Debug\nụ cười tỏa nắng.pdb
+F:\code\C##\nụ cười tỏa nắng\nụ cười tỏa nắng\obj\Debug\nụ cười tỏa nắng.csprojAssemblyReference.cache
+F:\code\C##\nụ cười tỏa nắng\nụ cười tỏa nắng\obj\Debug\nụ cười tỏa nắng.csproj.CoreCompileInputs.cache
+F:\code\C##\nụ cười tỏa nắng\nụ cười tỏa nắng\obj\Debug\nụ cười tỏa nắng.exe
+F:\code\C##\nụ cười tỏa nắng\nụ cười tỏa nắng\obj\Debug\nụ cười tỏa nắng.pdb

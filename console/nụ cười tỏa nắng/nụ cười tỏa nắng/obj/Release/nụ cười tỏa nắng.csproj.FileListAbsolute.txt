@@ -1,0 +1,5 @@
+E:\code\C##\nụ cười tỏa nắng\nụ cười tỏa nắng\bin\Release\nụ cười tỏa nắng.exe.config
+E:\code\C##\nụ cười tỏa nắng\nụ cười tỏa nắng\bin\Release\nụ cười tỏa nắng.exe
+E:\code\C##\nụ cười tỏa nắng\nụ cười tỏa nắng\bin\Release\nụ cười tỏa nắng.pdb
+E:\code\C##\nụ cười tỏa nắng\nụ cười tỏa nắng\obj\Release\nụ cười tỏa nắng.exe
+E:\code\C##\nụ cười tỏa nắng\nụ cười tỏa nắng\obj\Release\nụ cười tỏa nắng.pdb
